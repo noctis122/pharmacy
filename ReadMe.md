@@ -22,8 +22,4 @@ Maven: Tool for managing builds and dependencies.
   
 
 
-## Contact
-
-For any inquiries or support, please reach out at [abhishekabu0155@gmail.com](mailto:abhishekabu0155@gmail.com).
-```
 
